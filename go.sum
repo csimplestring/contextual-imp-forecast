@@ -1,0 +1,10 @@
+github.com/allegro/bigcache/v3 v3.0.0/go.mod h1:t5TAJn1B9qvf/VlJrSM1r6NlFAYoFDubYUsCuIO9nUQ=
+github.com/csimplestring/go-left-right v0.0.3/go.mod h1:ASS5AW8dwk3v6VxpOPQ6wI/N68ibyAMAPW1VTAWQpx8=
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/linxGnu/go-adder v0.2.0/go.mod h1:t9zC6P+vQpG5iEtw4sinwsVqe52AuFvL4P1dVXHD46c=
+github.com/philpearl/stringbank v1.1.0/go.mod h1:0V0f9Ba79DpIl4FTfotL+7IJ+etELdRQIcHJY2nX/+w=
+github.com/philpearl/symboltab v1.1.4/go.mod h1:vOdgHoGZAUqGg1apOcrqjuAxFERPUJ03PLfL6pvxNBg=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
+github.com/valyala/fastrand v1.0.0/go.mod h1:HWqCzkrkg6QXT8V2EXWvXCoow7vLwOFN002oeRzjapQ=
